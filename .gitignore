@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# slidev theme
+.DS_Store
+*.local
+index.html
+.remote-assets
+.idea/
+components.d.ts
